@@ -4,6 +4,14 @@
 This java program implements a Jeopardy game.
 -using multi-threading and networking for game communication.
 
+
+Deploy:
+
+import the folder:
+
+	src->main->Main.java to start the game
+
+
 log in:	
 	-user need to first register for a username and password
 	-if the user has done so, he/she needs to be logged in first
